@@ -1,0 +1,32 @@
+[
+  {
+    "libraryIdentifier" : "0e6fd34f9fce200adaa0e7e903af4593",
+    "format" : "model",
+    "displayName" : "gramophone.usdz"
+  },
+  {
+    "libraryIdentifier" : "c8f3c733a72cb028788ac5485b6a81eb",
+    "format" : "model",
+    "displayName" : "flower_tulip.usdz"
+  },
+  {
+    "libraryIdentifier" : "5d47a563c623db9d0510bef04d3ffe1a",
+    "format" : "model",
+    "displayName" : "toy_biplane_idle.usdz"
+  },
+  {
+    "libraryIdentifier" : "11685f9e3491e95933aa543c150cf99a",
+    "format" : "model",
+    "displayName" : "LunarRover_English.reality"
+  },
+  {
+    "libraryIdentifier" : "69e9a494942b17db16ec53176e1b5e0e",
+    "format" : "model",
+    "displayName" : "hab_en.reality"
+  },
+  {
+    "libraryIdentifier" : "67269e2fe922c7eaa1d2dbe33642b735",
+    "format" : "model",
+    "displayName" : "CosmonautSuit_en.reality"
+  }
+]
